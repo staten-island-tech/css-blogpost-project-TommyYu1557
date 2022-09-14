@@ -1,1 +1,38 @@
-body {}
+body {
+    background-color: aquamarine;
+    color: yellow
+    font-size: 30px;
+}
+.first-header {
+    color: blueviolet;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 100px;
+    background-color: black;
+    padding: 10px;
+    border: 5px solid yellow;
+}
+p1  {
+    color:green
+}
+p2  {
+    color:purple
+}
+.peep-this {
+    color:brown
+}
+
+h2 {
+    font-size: 40px;
+    color:white;
+    margin: 30px;
+    width: 75vw;
+    background-color: black;
+    border: 5px solid yellow;
+}
+
+p3 {
+    color:pink
+}
+
