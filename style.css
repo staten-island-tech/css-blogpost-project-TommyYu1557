@@ -1,38 +1,19 @@
 body {
-    background-color: aquamarine;
-    color: yellow
-    font-size: 30px;
+    background-color: rgb(1, 31, 75);
+    font-family: 'Raleway', sans-serif;
 }
-.first-header {
-    color: blueviolet;
-    font-size: 40px;
+
+.title {
+    margin: 0px auto;
+    border: 7px solid rgb(3, 57, 108);
+    padding: 35 35 35 35;
     text-align: center;
-    margin-top: 25px;
-    margin-bottom: 100px;
-    background-color: black;
-    padding: 10px;
-    border: 5px solid yellow;
-}
-p1  {
-    color:green
-}
-p2  {
-    color:purple
-}
-.peep-this {
-    color:brown
+    font-size: 60px;
+    color: rgb(179, 205, 224);
 }
 
-h2 {
-    font-size: 40px;
-    color:white;
-    margin: 30px;
-    width: 75vw;
-    background-color: black;
-    border: 5px solid yellow;
+.allblogtitles {
+    color: rgb(100, 151, 177);
+    text-align: center;
+    border: 10px    solid   red;
 }
-
-p3 {
-    color:pink
-}
-
