@@ -8,12 +8,31 @@ body {
     border: 7px solid rgb(3, 57, 108);
     padding: 35 35 35 35;
     text-align: center;
-    font-size: 60px;
+    font-size: 90px;
     color: rgb(179, 205, 224);
 }
 
 .allblogtitles {
     color: rgb(100, 151, 177);
     text-align: center;
-    border: 10px    solid   red;
+    font-size: 55px;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.venus  {
+    width: 60%;
+}
+
+.dawg {
+    width: 60%;
+}
+
+.brain {
+    width: 60%;
+}
+
+.flavortext {
+    font-size: 30px;
+    margin-bottom: 100px;
 }
