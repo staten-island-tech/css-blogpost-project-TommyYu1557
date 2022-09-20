@@ -10,6 +10,7 @@ body {
     text-align: center;
     font-size: 90px;
     color: rgb(179, 205, 224);
+    border-radius: 20px;
 }
 
 .allblogtitles {
@@ -18,21 +19,22 @@ body {
     font-size: 55px;
     width: 50%;
     margin: 0 auto;
+    height: 100px;
 }
 
-.venus  {
+.venusimg  {
     width: 60%;
 }
 
-.dawg {
+.dogimg {
     width: 60%;
 }
 
-.brain {
+.brainimg {
     width: 60%;
 }
 
 .flavortext {
     font-size: 30px;
-    margin-bottom: 100px;
+    color: gray;
 }
